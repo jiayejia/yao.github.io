@@ -1,8 +1,8 @@
 ---
-title: Include Video in the Posts
-published: 2023-08-01
+title: 视频页面测试
+published: 2025-07-04
 description: This post demonstrates how to include embedded video in a blog post.
-tags: [Example, Video]
+tags: [Example]
 category: Examples
 draft: false
 ---
@@ -25,4 +25,5 @@ published: 2023-10-19
 
 ## Bilibili
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV15Q4y167RB&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
