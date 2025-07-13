@@ -3,4 +3,6 @@
 
 ::github{repo="521xueweihan/HelloGitHub"}
 ::github{repo="GrowingGit/GitHub-Chinese-Top-Charts"}
-::github{repo="ujjwalkarn/Machine-Learning-Tutorials"}
+::github{repo="d2l-ai/d2l-zh"}
+::github{repo="public-apis/public-apis"}
+::github{repo="n8n-io/n8n"}
