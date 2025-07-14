@@ -9,13 +9,10 @@ draft: false
 ---
 
 
-# 使用视频下载器yt-dlp下载全网视频
 
 > 仓库地址
 
 ::github{repo="yt-dlp/yt-dlp"}
-
-![](https://cdn.jsdelivr.net/gh/YAO-JIAYE/my_imgs_repo@main/imgs/20250714115009549.png)
 
 点击右下角的release
 
