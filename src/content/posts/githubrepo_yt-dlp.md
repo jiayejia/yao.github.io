@@ -2,6 +2,7 @@
 title: 使用yt-dlp下载全网视频
 published: 2025-07-14
 description: github repo yt-dlp的简单应用
+image: "https://cdn.jsdelivr.net/gh/YAO-JIAYE/my_imgs_repo@main/imgs/20250714115009549.png"
 tags: [github-repo]
 category: 工具
 draft: false
