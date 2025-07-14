@@ -3,7 +3,7 @@ title: Mardown示例
 published: 2025-07-01
 description: A simple example of a Markdown blog post.
 tags: [Markdown]
-category: Examples
+category: Markdown
 draft: false
 ---
 

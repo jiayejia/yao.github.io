@@ -3,8 +3,8 @@ title: 简单的Fuwari博客模板指南
 published: 2025-07-01
 description: "Fuwari博客模板的使用方法。"
 image: ""
-tags: ["Fuwari", "博客"]
-category: Guides
+tags: ["Example"]
+category: Examples
 draft: false
 ---
 
