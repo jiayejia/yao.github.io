@@ -14,6 +14,9 @@ draft: false
 
 ::github{repo="yt-dlp/yt-dlp"}
 
+> 我练习项目的地址
+::github{repo="YAO-JIAYE/yt-dlp_videoDownloader"}
+
 点击右下角的release
 
 ![](https://cdn.jsdelivr.net/gh/YAO-JIAYE/my_imgs_repo@main/imgs/20250714120445194.png)
